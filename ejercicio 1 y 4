@@ -1,1 +1,24 @@
+1. Generalización simbólica:
+   Son las reglas escritas del lenguaje: sintaxis, tipado dinámico, objetos basados en prototipos,
+   funciones como ciudadanos de primera clase, coerción implícita, manejo de this, reglas de alcance,
+   creación de objetos mediante prototypes, closures, etc.
 
+2. Creencias de los profesionales:
+   - JS es flexible y permite múltiples paradigmas.
+   - La orientación a prototipos es más dinámica que la basada en clases tradicionales.
+   - La programación funcional es muy expresiva en JS.
+   - El modelo asíncrono con Promises/async-await es considerado superior para IO.
+
+//4 
+
+En el ejercicio de calculadora utilice:
+- Encapsulamiento: la calculadora agrupa operaciones en un único objeto.
+- Abstracción: para sumar, restar,etc.
+- Polimorfismo: no aplica directamente.
+- Herencia: no fue necesario.
+
+En el ejercicio 3 (prototipos):
+- Utilice el uso de prototype para compartir métodos.
+- Creación de objetos mediante funciones constructoras.
+- No utilice herencia porque no se necesitaban subtipos de tareas.
+- Encapsulamiento basico mediante constructor + prototype.
